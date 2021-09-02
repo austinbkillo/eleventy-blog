@@ -1,10 +1,10 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Projects and Portfolio - Valuable or Vain?
+description: Thinking of if the time sink for projects and portfolios is worth time that could be spent elsewhere.
 date: 2018-08-24
 tags:
-  - second tag
-  - posts with two tags
+  - thought provoking
+  - indecisive
 layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.

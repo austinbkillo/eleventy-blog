@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Locating the title
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About me
   order: 3
 ---
 
-I am a person that writes stuff.
+Testing where data comes and goes
